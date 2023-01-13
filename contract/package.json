@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-javascript-starter",
+  "scripts": {
+    "deploy": "npx web3sdks@latest deploy",
+    "release": "npx web3sdks@latest release"
+  },
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@web3sdks/contracts": "^1.0.0"
+  }
+}
